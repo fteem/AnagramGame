@@ -297,6 +297,7 @@
 				88C0DB1E1E22DE3400BC2512 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
